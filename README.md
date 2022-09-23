@@ -1,8 +1,15 @@
+body {
+     background: #CCCCCC
+}
+
+h1{
+    text-align: center;
+}
+
 p {
     text-align: center;
 }
 
-body {
-
-     background: #CCCCCC 
+em strong {
+    color: #FF0000;
 }
